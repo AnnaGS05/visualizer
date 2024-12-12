@@ -77,5 +77,7 @@ python -m unittest test_visualizer.py
 
 ## Результат работы программы
 ![image](https://github.com/user-attachments/assets/a6856a88-a485-4dd3-b4c0-e56eadbe02c0)
+![image](https://github.com/user-attachments/assets/ac1ed319-34f4-4330-bf57-eeb2376ef538)
+
 
 
